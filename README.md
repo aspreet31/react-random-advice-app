@@ -7,7 +7,9 @@ This repository holds the code for a fun and functional React project I created:
 What did I learn?
 
 Master the fundamentals of React workflow.
+
 Integrated with the Advice Slip JSON API to fetch random advice.
+
 Implemented social sharing functionality using the react-share library, allowing users to easily share  app's link on social platforms.
 
 Screenshot of Web App -
