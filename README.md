@@ -2,13 +2,12 @@
 # react-random-advice-app
 Interactive ReactJS application that fetches random advice from an external API
 =======
-# React + Vite
+This repository holds the code for a fun and functional React project I created: a Random Advice App.
+What did I learn?
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Master the fundamentals of React workflow.
+Integrated with the Advice Slip JSON API to fetch random advice.
+Implemented social sharing functionality using the react-share library, allowing users to easily share  app's link on social platforms.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 238327f (Initial commit)
-
+Screenshot of Web App -
+![view ](https://github.com/aspreet31/react-random-advice-app/assets/103019348/a1ab5edc-8b0c-4be4-b8b4-dc843ba53b91)
