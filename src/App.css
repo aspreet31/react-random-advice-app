@@ -4,6 +4,10 @@
   box-sizing: border-box;
   height: 100vh;
 }
+h1{
+ font-size: 40px !important;
+ color: whitesmoke;
+}
 .app{
   height: 100%;
   display: flex;
@@ -44,5 +48,8 @@
     height: 30%;
     width: 80%;
     font-size: larger;
+  }
+    h1{
+    font-size: 24px !important;
   }
 }
