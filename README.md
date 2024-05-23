@@ -13,4 +13,5 @@ Integrated with the Advice Slip JSON API to fetch random advice.
 Implemented social sharing functionality using the react-share library, allowing users to easily share  app's link on social platforms.
 
 Screenshot of Web App -
-![view ](https://github.com/aspreet31/react-random-advice-app/assets/103019348/a1ab5edc-8b0c-4be4-b8b4-dc843ba53b91)
+![webview](https://github.com/aspreet31/react-random-advice-app/assets/103019348/bbfb8edc-a302-40e3-a477-46ab4d8c3d9e)
+
