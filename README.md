@@ -3,6 +3,7 @@
 Interactive ReactJS application that fetches random advice from an external API
 =======
 This repository holds the code for a fun and functional React project I created: a Random Advice App.
+
 What did I learn?
 
 Master the fundamentals of React workflow.
