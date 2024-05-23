@@ -20,7 +20,8 @@ function App() {
     <>
       <div className="app">
         <div className="card">
-          <h1 style={{height:"20vh", textAlign:"center"}}>{advice}</h1>
+          <h1>Random Advice App</h1>
+          <h2 style={{height:"20vh", textAlign:"center"}}>{advice}</h2>
           <button
             onClick={() => {
               fetchAdvice();
