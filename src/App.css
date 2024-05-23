@@ -1,0 +1,40 @@
+#root , html,body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: 100vh;
+}
+.app{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(./assets/advice.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.card{
+  background: whitesmoke;
+  padding: 40px;
+  border-radius: 25px;
+  box-shadow: 10px 10px ;
+  height: 20%;
+  width:40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap:20px;
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: large;
+}
+@media only screen and (max-width:600px) {
+  .card{
+    height: 30%;
+    width: 80%;
+    font-size: larger;
+  }
+}
